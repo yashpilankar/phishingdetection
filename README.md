@@ -5,7 +5,7 @@ This projects aims to solve the following problem statement: _Is the given websi
 
 The dataset is published by Abdelhakim Hannousse and Salima Yahiouche on Mendeley data repository where the dataset has 11,430 URLs with 87 different features.
 The dataset was ingress, explored, analyzed, preprocessed & after transforming the data was prepared and various supervised machine learning model were
-applied to the data following the KDD methodology. Machine Learning Models like Logistic Regression, Decision Tree Classifier, Gaussian Naive Bayes, Random Forest Classifier and K-Neighbors Classifier were applied The models were further evaluated based on Precision – Recall score, ROC-AUC score & F1 score for classification.
+applied to the data following the KDD methodology. Machine Learning Models like Logistic Regression, Decision Tree Classifier, Gaussian Naive Bayes, Random Forest Classifier and K-Neighbors Classifier were applied The models were further evaluated based on Precision – Recall score, ROC-AUC score & F1 score for classification where Random Forest had outperformed other models with 92% accuracy.
 
 Dataset Link- https://data.mendeley.com/datasets/c2gw7fy2j4/3
 
